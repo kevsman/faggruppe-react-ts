@@ -2,9 +2,9 @@
 
 Starte nytt prosjekt
 
-https://create-react-app.dev/docs/adding-typescript
-https://www.typescriptlang.org/docs/handbook/intro.html
-https://reactjs.org/docs/static-type-checking.html
+https://create-react-app.dev/docs/adding-typescript \
+https://www.typescriptlang.org/docs/handbook/intro.html \
+https://reactjs.org/docs/static-type-checking.html \
 
 ## `npx create-react-app faggruppe-react-ts --template typescript`
 
