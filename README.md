@@ -8,8 +8,8 @@ https://reactjs.org/docs/static-type-checking.html
 
 ### `npx create-react-app faggruppe-react-ts --template typescript`
 
-`npm install react-router-dom`
-`npm install styled-components`
+## `npm install react-router-dom`
+## `npm install styled-components`
 
-`npm i --save-dev @types/styled-components`
-`npm i --save-dev @types/react-router-dom`
+## `npm i --save-dev @types/styled-components`
+## `npm i --save-dev @types/react-router-dom`
